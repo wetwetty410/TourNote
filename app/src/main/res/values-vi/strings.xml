@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TourNote</string>
+
+    <!-- Các hành động-->
+    <string name="common_action_close" translatable="false">Đóng</string>
+    <string name="common_action_save" translatable="false">Lưu</string>\
+
+    <!--Các menu-->
+    <string name="menu_item_about_app">Về Ứng Dụng</string>
+    <string name="menu_item_help">Giúp Đỡ</string>
+    <string name="menu_item_vesion_app">Phiên Bản %s</string>
+
+    <!--Màn hình chính-->
+    <string name="maincreeen_add_category">Thêm Chủ Đề</string>
+    <string name="maincreeen_edit_note">Sửa Địa Điểm</string>
+    <string name="mainscreen_add_note">Thêm Địa Điểm</string>
+    <string name="mainscreen_empty_note">Bạn chưa có ghi chú nào, hãy tạo mới ghi chú cho mình từ hôm nay</string>
+
+    <!--Màn hình note detail-->
+    <string name="note_detail_share">Chia sẻ</string>
+    <string name="note_detail_delete">Xóa</string>
+    <string name="note_detail_category">Chủ Đề</string>
+    <string name="note_detail_note_detail">Chi Tiết</string>
+    <string name="note_detail_other_information">Thông Tin Khác</string>
+    <string name="note_detail_map_location">Vị Trí Bản Đồ</string>
+    <string name="note_detail_add_note_hint">Ghi Chú - Có Thể Thêm Vào Sau</string>
+    <string name="note_detail_address_hint">Địa Chỉ</string>
+    <string name="note_detail_note_name_hint">Tên Địa Điểm</string>
+    <string name="note_detail_note_detail_hint">Chi Tiết Về Địa Điểm</string>
+</resources>
